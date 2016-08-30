@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+  * I've learned basic HTML syntax, for example, formatting paragraphes by using elements of HTML and displaying images in a webpage. I've also learned how to 
+    validate my HTML documents utilizing W3C validation service.
+  * So far, the programming part including HTML syntax is easy for me. I think it's because I'm a Computer Science student, programmig and debugging is a common thing
+    in my daily life :).
+  * Nothing has been difficult. Though I'm looking forward to playing with JavaScript, which will be more fun and challenging.
+  * I think MDN is a really good place to go and research. My strategy is to look up new elements or syntax on MDN and try them first. If things go wrong and I couldn't 
+    solve them, then I'll go to Udacity Forum or Stackoverflow to seek solutions. However, there's really no challenges so far.
